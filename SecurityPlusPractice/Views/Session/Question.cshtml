@@ -1,0 +1,26 @@
+@model SecurityPlusPractice.ViewModels.QuestionViewModel
+
+@{
+    ViewData["Title"] = $"Question {Model.CurrentIndex + 1} of {Model.TotalQuestions}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <p>@Model.QuestionText</p>
+
+    <form asp-action="SubmitAnswer" method="post">
+        <input type="hidden" name="QuestionID" value="@Model.QuestionID" />
+        @foreach (var choice in Model.Choices)
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="SelectedAnswers" value="@choice.Key" id="@choice.Key" />
+                <label class="form-check-label" for="@choice.Key">
+                    @choice.Value
+                </label>
+            </div>
+        }
+        <br />
+        <button type="submit" class="btn btn-primary">Submit Answer</button>
+    </form>
+</div>

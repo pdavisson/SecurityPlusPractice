@@ -1,0 +1,12 @@
+@model SecurityPlusPractice.ViewModels.ResultViewModel
+
+@{
+    ViewData["Title"] = "Session Results";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>User: @Model.UserName</p>
+<p>Session Date: @Model.SessionDate</p>
+<p>Score: @Model.Score / @Model.Total</p>
+<p>Percentage: @Model.Percentage%</p>

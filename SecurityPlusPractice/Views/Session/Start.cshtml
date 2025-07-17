@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Start Practice Session";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Click the button below to begin a new Security+ practice session.</p>
+
+<form asp-action="Begin" method="post">
+    <button type="submit" class="btn btn-primary">Start Session</button>
+</form>

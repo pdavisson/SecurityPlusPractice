@@ -1,0 +1,38 @@
+﻿@model SecurityPlusPractice.ViewModels.AnswerReviewViewModel
+
+@{
+	ViewData["Title"] = "Answer Review";
+}
+
+<h2>@Model.QuestionText</h2>
+
+<ul>
+	@foreach (var choice in Model.Choices)
+	{
+		var isSelected = choice.Key == Model.SelectedAnswer;
+		var isCorrect = choice.Key == Model.CorrectAnswer;
+
+		<li style="color: @(isCorrect ? "green" : isSelected ? "red" : "black")">
+			<strong>@choice.Key)</strong> @choice.Value
+			@if (isSelected)
+			{
+				<span> ← Your choice</span>
+			}
+			@if (isCorrect)
+			{
+				<span> ← Correct answer</span>
+			}
+		</li>
+	}
+</ul>
+
+<p style="color:@(Model.IsCorrect ? "green" : "red")">
+	<strong>@(Model.IsCorrect ? "Correct!" : "Incorrect")</strong>
+</p>
+
+<p><strong>Explanation:</strong> @Model.Explanation</p>
+
+<form asp-action="Question" method="get">
+	<input type="hidden" name="index" value="@Model.NextIndex" />
+	<button type="submit" class="btn btn-primary">Next Question</button>
+</form>
