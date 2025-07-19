@@ -1,0 +1,1001 @@
+ID	ExplanationText
+1	This question tests understanding of PKI. Correct answer(s): D.
+2	This question tests understanding of MAC. Correct answer(s): A, B.
+3	This question tests understanding of SIEM. Correct answer(s): A, C.
+4	This question tests understanding of vulnerability scanning. Correct answer(s): B, C.
+5	This question tests understanding of VPN. Correct answer(s): C, D.
+6	This question tests understanding of firewalls. Correct answer(s): B, C.
+7	This question tests understanding of DAC. Correct answer(s): B.
+8	This question tests understanding of access control models. Correct answer(s): A.
+9	This question tests understanding of social engineering. Correct answer(s): B, D.
+10	This question tests understanding of availability. Correct answer(s): A.
+11	This question tests understanding of PKI. Correct answer(s): C.
+12	This question tests understanding of MAC. Correct answer(s): B.
+13	This question tests understanding of phishing. Correct answer(s): C.
+14	This question tests understanding of DAC. Correct answer(s): C, D.
+15	This question tests understanding of social engineering. Correct answer(s): B, D.
+16	This question tests understanding of TLS. Correct answer(s): A, B.
+17	This question tests understanding of VPN. Correct answer(s): B, C.
+18	This question tests understanding of risk mitigation. Correct answer(s): D.
+19	This question tests understanding of access control models. Correct answer(s): D.
+20	This question tests understanding of encryption. Correct answer(s): C.
+21	This question tests understanding of log analysis. Correct answer(s): C.
+22	This question tests understanding of malware. Correct answer(s): A, B.
+23	This question tests understanding of confidentiality. Correct answer(s): C.
+24	This question tests understanding of SIEM. Correct answer(s): D.
+25	This question tests understanding of log analysis. Correct answer(s): A, D.
+26	This question tests understanding of RBAC. Correct answer(s): B, C.
+27	This question tests understanding of DAC. Correct answer(s): A, C.
+28	This question tests understanding of MAC. Correct answer(s): C.
+29	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+30	This question tests understanding of firewalls. Correct answer(s): D.
+31	This question tests understanding of log analysis. Correct answer(s): B.
+32	This question tests understanding of availability. Correct answer(s): B.
+33	This question tests understanding of RBAC. Correct answer(s): C.
+34	This question tests understanding of firewalls. Correct answer(s): D.
+35	This question tests understanding of penetration testing. Correct answer(s): D.
+36	This question tests understanding of RBAC. Correct answer(s): C.
+37	This question tests understanding of VPN. Correct answer(s): A.
+38	This question tests understanding of DAC. Correct answer(s): B, C.
+39	This question tests understanding of VPN. Correct answer(s): A, D.
+40	This question tests understanding of risk mitigation. Correct answer(s): D.
+41	This question tests understanding of risk mitigation. Correct answer(s): D.
+42	This question tests understanding of confidentiality. Correct answer(s): A, D.
+43	This question tests understanding of log analysis. Correct answer(s): B, C.
+44	This question tests understanding of log analysis. Correct answer(s): A, C.
+45	This question tests understanding of phishing. Correct answer(s): B, C.
+46	This question tests understanding of availability. Correct answer(s): A.
+47	This question tests understanding of risk mitigation. Correct answer(s): B, D.
+48	This question tests understanding of IDS/IPS. Correct answer(s): A.
+49	This question tests understanding of SIEM. Correct answer(s): A, D.
+50	This question tests understanding of SIEM. Correct answer(s): A, C.
+51	This question tests understanding of social engineering. Correct answer(s): A.
+52	This question tests understanding of availability. Correct answer(s): B.
+53	This question tests understanding of SIEM. Correct answer(s): B.
+54	This question tests understanding of DAC. Correct answer(s): B, D.
+55	This question tests understanding of IDS/IPS. Correct answer(s): A.
+56	This question tests understanding of availability. Correct answer(s): C.
+57	This question tests understanding of social engineering. Correct answer(s): A.
+58	This question tests understanding of social engineering. Correct answer(s): D.
+59	This question tests understanding of ransomware. Correct answer(s): C.
+60	This question tests understanding of RBAC. Correct answer(s): C.
+61	This question tests understanding of encryption. Correct answer(s): C, D.
+62	This question tests understanding of availability. Correct answer(s): B.
+63	This question tests understanding of log analysis. Correct answer(s): C.
+64	This question tests understanding of RBAC. Correct answer(s): C.
+65	This question tests understanding of TLS. Correct answer(s): D.
+66	This question tests understanding of log analysis. Correct answer(s): C.
+67	This question tests understanding of DAC. Correct answer(s): A, D.
+68	This question tests understanding of RBAC. Correct answer(s): B, C.
+69	This question tests understanding of DAC. Correct answer(s): A.
+70	This question tests understanding of RBAC. Correct answer(s): C, D.
+71	This question tests understanding of penetration testing. Correct answer(s): C, D.
+72	This question tests understanding of multi-factor authentication. Correct answer(s): C, D.
+73	This question tests understanding of SIEM. Correct answer(s): D.
+74	This question tests understanding of TLS. Correct answer(s): C.
+75	This question tests understanding of DAC. Correct answer(s): B.
+76	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+77	This question tests understanding of RBAC. Correct answer(s): A.
+78	This question tests understanding of penetration testing. Correct answer(s): A, B.
+79	This question tests understanding of DAC. Correct answer(s): D.
+80	This question tests understanding of VPN. Correct answer(s): D.
+81	This question tests understanding of confidentiality. Correct answer(s): B, C.
+82	This question tests understanding of availability. Correct answer(s): B.
+83	This question tests understanding of encryption. Correct answer(s): A, D.
+84	This question tests understanding of confidentiality. Correct answer(s): A.
+85	This question tests understanding of malware. Correct answer(s): B.
+86	This question tests understanding of SIEM. Correct answer(s): B.
+87	This question tests understanding of TLS. Correct answer(s): D.
+88	This question tests understanding of penetration testing. Correct answer(s): C.
+89	This question tests understanding of availability. Correct answer(s): B.
+90	This question tests understanding of VPN. Correct answer(s): D.
+91	This question tests understanding of VPN. Correct answer(s): A.
+92	This question tests understanding of malware. Correct answer(s): C.
+93	This question tests understanding of social engineering. Correct answer(s): C, D.
+94	This question tests understanding of vulnerability scanning. Correct answer(s): B, C.
+95	This question tests understanding of access control models. Correct answer(s): B, D.
+96	This question tests understanding of TLS. Correct answer(s): A.
+97	This question tests understanding of malware. Correct answer(s): A, B.
+98	This question tests understanding of phishing. Correct answer(s): B.
+99	This question tests understanding of log analysis. Correct answer(s): A, C.
+100	This question tests understanding of encryption. Correct answer(s): B.
+101	This question tests understanding of SIEM. Correct answer(s): A, D.
+102	This question tests understanding of access control models. Correct answer(s): A.
+103	This question tests understanding of SIEM. Correct answer(s): A.
+104	This question tests understanding of DAC. Correct answer(s): A, D.
+105	This question tests understanding of confidentiality. Correct answer(s): A.
+106	This question tests understanding of malware. Correct answer(s): B, D.
+107	This question tests understanding of phishing. Correct answer(s): C.
+108	This question tests understanding of SIEM. Correct answer(s): A, C.
+109	This question tests understanding of DAC. Correct answer(s): D.
+110	This question tests understanding of TLS. Correct answer(s): C.
+111	This question tests understanding of TLS. Correct answer(s): A.
+112	This question tests understanding of access control models. Correct answer(s): B.
+113	This question tests understanding of log analysis. Correct answer(s): D.
+114	This question tests understanding of IDS/IPS. Correct answer(s): C, D.
+115	This question tests understanding of phishing. Correct answer(s): B, C.
+116	This question tests understanding of integrity. Correct answer(s): D.
+117	This question tests understanding of VPN. Correct answer(s): A.
+118	This question tests understanding of log analysis. Correct answer(s): A, B.
+119	This question tests understanding of MAC. Correct answer(s): C, D.
+120	This question tests understanding of availability. Correct answer(s): C.
+121	This question tests understanding of malware. Correct answer(s): B, C.
+122	This question tests understanding of RBAC. Correct answer(s): A, D.
+123	This question tests understanding of access control models. Correct answer(s): C.
+124	This question tests understanding of encryption. Correct answer(s): D.
+125	This question tests understanding of penetration testing. Correct answer(s): B, C.
+126	This question tests understanding of ransomware. Correct answer(s): B.
+127	This question tests understanding of SIEM. Correct answer(s): D.
+128	This question tests understanding of DAC. Correct answer(s): B.
+129	This question tests understanding of DAC. Correct answer(s): C.
+130	This question tests understanding of RBAC. Correct answer(s): B, D.
+131	This question tests understanding of risk mitigation. Correct answer(s): A, D.
+132	This question tests understanding of integrity. Correct answer(s): B.
+133	This question tests understanding of penetration testing. Correct answer(s): D.
+134	This question tests understanding of PKI. Correct answer(s): B.
+135	This question tests understanding of encryption. Correct answer(s): A, B.
+136	This question tests understanding of TLS. Correct answer(s): D.
+137	This question tests understanding of firewalls. Correct answer(s): C.
+138	This question tests understanding of VPN. Correct answer(s): D.
+139	This question tests understanding of encryption. Correct answer(s): C, D.
+140	This question tests understanding of penetration testing. Correct answer(s): D.
+141	This question tests understanding of malware. Correct answer(s): C.
+142	This question tests understanding of penetration testing. Correct answer(s): C.
+143	This question tests understanding of firewalls. Correct answer(s): B.
+144	This question tests understanding of penetration testing. Correct answer(s): D.
+145	This question tests understanding of malware. Correct answer(s): C.
+146	This question tests understanding of penetration testing. Correct answer(s): A, C.
+147	This question tests understanding of integrity. Correct answer(s): C.
+148	This question tests understanding of MAC. Correct answer(s): C.
+149	This question tests understanding of TLS. Correct answer(s): A, C.
+150	This question tests understanding of penetration testing. Correct answer(s): A, C.
+151	This question tests understanding of integrity. Correct answer(s): B, D.
+152	This question tests understanding of social engineering. Correct answer(s): A, B.
+153	This question tests understanding of risk mitigation. Correct answer(s): A.
+154	This question tests understanding of DAC. Correct answer(s): C, D.
+155	This question tests understanding of ransomware. Correct answer(s): C, D.
+156	This question tests understanding of TLS. Correct answer(s): B.
+157	This question tests understanding of TLS. Correct answer(s): D.
+158	This question tests understanding of DAC. Correct answer(s): A, C.
+159	This question tests understanding of IDS/IPS. Correct answer(s): D.
+160	This question tests understanding of log analysis. Correct answer(s): A, D.
+161	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+162	This question tests understanding of availability. Correct answer(s): A.
+163	This question tests understanding of malware. Correct answer(s): D.
+164	This question tests understanding of TLS. Correct answer(s): A, D.
+165	This question tests understanding of MAC. Correct answer(s): B.
+166	This question tests understanding of penetration testing. Correct answer(s): A.
+167	This question tests understanding of RBAC. Correct answer(s): B, D.
+168	This question tests understanding of firewalls. Correct answer(s): A.
+169	This question tests understanding of SIEM. Correct answer(s): A.
+170	This question tests understanding of SIEM. Correct answer(s): B.
+171	This question tests understanding of penetration testing. Correct answer(s): A.
+172	This question tests understanding of malware. Correct answer(s): C, D.
+173	This question tests understanding of penetration testing. Correct answer(s): D.
+174	This question tests understanding of ransomware. Correct answer(s): C.
+175	This question tests understanding of multi-factor authentication. Correct answer(s): A, D.
+176	This question tests understanding of phishing. Correct answer(s): A, D.
+177	This question tests understanding of PKI. Correct answer(s): B.
+178	This question tests understanding of ransomware. Correct answer(s): C.
+179	This question tests understanding of SIEM. Correct answer(s): C.
+180	This question tests understanding of penetration testing. Correct answer(s): A, D.
+181	This question tests understanding of risk mitigation. Correct answer(s): D.
+182	This question tests understanding of integrity. Correct answer(s): A.
+183	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+184	This question tests understanding of IDS/IPS. Correct answer(s): B.
+185	This question tests understanding of risk mitigation. Correct answer(s): A, D.
+186	This question tests understanding of IDS/IPS. Correct answer(s): A.
+187	This question tests understanding of malware. Correct answer(s): A, B.
+188	This question tests understanding of phishing. Correct answer(s): A.
+189	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+190	This question tests understanding of VPN. Correct answer(s): B, C.
+191	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+192	This question tests understanding of SIEM. Correct answer(s): C.
+193	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+194	This question tests understanding of PKI. Correct answer(s): A.
+195	This question tests understanding of malware. Correct answer(s): C.
+196	This question tests understanding of integrity. Correct answer(s): C, D.
+197	This question tests understanding of DAC. Correct answer(s): B.
+198	This question tests understanding of access control models. Correct answer(s): B.
+199	This question tests understanding of access control models. Correct answer(s): A.
+200	This question tests understanding of encryption. Correct answer(s): B, D.
+201	This question tests understanding of availability. Correct answer(s): D.
+202	This question tests understanding of MAC. Correct answer(s): A, D.
+203	This question tests understanding of penetration testing. Correct answer(s): A, B.
+204	This question tests understanding of access control models. Correct answer(s): A.
+205	This question tests understanding of MAC. Correct answer(s): B, C.
+206	This question tests understanding of availability. Correct answer(s): A.
+207	This question tests understanding of PKI. Correct answer(s): A.
+208	This question tests understanding of phishing. Correct answer(s): A.
+209	This question tests understanding of confidentiality. Correct answer(s): C, D.
+210	This question tests understanding of ransomware. Correct answer(s): A, B.
+211	This question tests understanding of phishing. Correct answer(s): D.
+212	This question tests understanding of confidentiality. Correct answer(s): C, D.
+213	This question tests understanding of VPN. Correct answer(s): B.
+214	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+215	This question tests understanding of IDS/IPS. Correct answer(s): A.
+216	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+217	This question tests understanding of MAC. Correct answer(s): A, D.
+218	This question tests understanding of multi-factor authentication. Correct answer(s): B, D.
+219	This question tests understanding of IDS/IPS. Correct answer(s): A, B.
+220	This question tests understanding of social engineering. Correct answer(s): A, D.
+221	This question tests understanding of malware. Correct answer(s): A, C.
+222	This question tests understanding of risk mitigation. Correct answer(s): B.
+223	This question tests understanding of firewalls. Correct answer(s): D.
+224	This question tests understanding of PKI. Correct answer(s): C.
+225	This question tests understanding of encryption. Correct answer(s): D.
+226	This question tests understanding of social engineering. Correct answer(s): A, D.
+227	This question tests understanding of integrity. Correct answer(s): A.
+228	This question tests understanding of MAC. Correct answer(s): B.
+229	This question tests understanding of SIEM. Correct answer(s): B.
+230	This question tests understanding of confidentiality. Correct answer(s): C.
+231	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+232	This question tests understanding of IDS/IPS. Correct answer(s): B.
+233	This question tests understanding of IDS/IPS. Correct answer(s): C.
+234	This question tests understanding of firewalls. Correct answer(s): B.
+235	This question tests understanding of firewalls. Correct answer(s): C, D.
+236	This question tests understanding of IDS/IPS. Correct answer(s): A.
+237	This question tests understanding of access control models. Correct answer(s): A.
+238	This question tests understanding of phishing. Correct answer(s): B.
+239	This question tests understanding of SIEM. Correct answer(s): D.
+240	This question tests understanding of multi-factor authentication. Correct answer(s): A, C.
+241	This question tests understanding of penetration testing. Correct answer(s): A, C.
+242	This question tests understanding of log analysis. Correct answer(s): D.
+243	This question tests understanding of multi-factor authentication. Correct answer(s): C, D.
+244	This question tests understanding of integrity. Correct answer(s): B.
+245	This question tests understanding of IDS/IPS. Correct answer(s): D.
+246	This question tests understanding of risk mitigation. Correct answer(s): B.
+247	This question tests understanding of access control models. Correct answer(s): B.
+248	This question tests understanding of DAC. Correct answer(s): B.
+249	This question tests understanding of malware. Correct answer(s): A.
+250	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+251	This question tests understanding of ransomware. Correct answer(s): A.
+252	This question tests understanding of IDS/IPS. Correct answer(s): A.
+253	This question tests understanding of access control models. Correct answer(s): C.
+254	This question tests understanding of encryption. Correct answer(s): B.
+255	This question tests understanding of ransomware. Correct answer(s): D.
+256	This question tests understanding of vulnerability scanning. Correct answer(s): B, C.
+257	This question tests understanding of ransomware. Correct answer(s): C.
+258	This question tests understanding of log analysis. Correct answer(s): A, D.
+259	This question tests understanding of vulnerability scanning. Correct answer(s): C, D.
+260	This question tests understanding of risk mitigation. Correct answer(s): B.
+261	This question tests understanding of RBAC. Correct answer(s): A.
+262	This question tests understanding of risk mitigation. Correct answer(s): C, D.
+263	This question tests understanding of encryption. Correct answer(s): C.
+264	This question tests understanding of penetration testing. Correct answer(s): C.
+265	This question tests understanding of log analysis. Correct answer(s): C.
+266	This question tests understanding of RBAC. Correct answer(s): C.
+267	This question tests understanding of MAC. Correct answer(s): A, D.
+268	This question tests understanding of social engineering. Correct answer(s): A.
+269	This question tests understanding of integrity. Correct answer(s): B, C.
+270	This question tests understanding of DAC. Correct answer(s): D.
+271	This question tests understanding of IDS/IPS. Correct answer(s): A, C.
+272	This question tests understanding of confidentiality. Correct answer(s): C.
+273	This question tests understanding of confidentiality. Correct answer(s): C, D.
+274	This question tests understanding of malware. Correct answer(s): B, D.
+275	This question tests understanding of PKI. Correct answer(s): C.
+276	This question tests understanding of confidentiality. Correct answer(s): C, D.
+277	This question tests understanding of PKI. Correct answer(s): C.
+278	This question tests understanding of encryption. Correct answer(s): A.
+279	This question tests understanding of SIEM. Correct answer(s): A, C.
+280	This question tests understanding of risk mitigation. Correct answer(s): A.
+281	This question tests understanding of firewalls. Correct answer(s): A.
+282	This question tests understanding of availability. Correct answer(s): A.
+283	This question tests understanding of integrity. Correct answer(s): B.
+284	This question tests understanding of access control models. Correct answer(s): C.
+285	This question tests understanding of integrity. Correct answer(s): A, C.
+286	This question tests understanding of RBAC. Correct answer(s): C.
+287	This question tests understanding of RBAC. Correct answer(s): C.
+288	This question tests understanding of risk mitigation. Correct answer(s): B.
+289	This question tests understanding of DAC. Correct answer(s): B.
+290	This question tests understanding of access control models. Correct answer(s): C.
+291	This question tests understanding of MAC. Correct answer(s): A.
+292	This question tests understanding of social engineering. Correct answer(s): A, D.
+293	This question tests understanding of malware. Correct answer(s): D.
+294	This question tests understanding of access control models. Correct answer(s): B.
+295	This question tests understanding of PKI. Correct answer(s): B.
+296	This question tests understanding of multi-factor authentication. Correct answer(s): B.
+297	This question tests understanding of TLS. Correct answer(s): A.
+298	This question tests understanding of TLS. Correct answer(s): B.
+299	This question tests understanding of integrity. Correct answer(s): D.
+300	This question tests understanding of availability. Correct answer(s): B, C.
+301	This question tests understanding of IDS/IPS. Correct answer(s): D.
+302	This question tests understanding of integrity. Correct answer(s): C.
+303	This question tests understanding of confidentiality. Correct answer(s): D.
+304	This question tests understanding of social engineering. Correct answer(s): C.
+305	This question tests understanding of DAC. Correct answer(s): A, C.
+306	This question tests understanding of log analysis. Correct answer(s): D.
+307	This question tests understanding of phishing. Correct answer(s): B.
+308	This question tests understanding of penetration testing. Correct answer(s): A, D.
+309	This question tests understanding of access control models. Correct answer(s): B.
+310	This question tests understanding of malware. Correct answer(s): C, D.
+311	This question tests understanding of phishing. Correct answer(s): B.
+312	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+313	This question tests understanding of phishing. Correct answer(s): A.
+314	This question tests understanding of vulnerability scanning. Correct answer(s): A, B.
+315	This question tests understanding of SIEM. Correct answer(s): A, D.
+316	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+317	This question tests understanding of PKI. Correct answer(s): C.
+318	This question tests understanding of malware. Correct answer(s): C, D.
+319	This question tests understanding of availability. Correct answer(s): C.
+320	This question tests understanding of encryption. Correct answer(s): C.
+321	This question tests understanding of firewalls. Correct answer(s): D.
+322	This question tests understanding of penetration testing. Correct answer(s): B, D.
+323	This question tests understanding of malware. Correct answer(s): A, C.
+324	This question tests understanding of TLS. Correct answer(s): B.
+325	This question tests understanding of risk mitigation. Correct answer(s): C, D.
+326	This question tests understanding of log analysis. Correct answer(s): B.
+327	This question tests understanding of ransomware. Correct answer(s): D.
+328	This question tests understanding of access control models. Correct answer(s): D.
+329	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+330	This question tests understanding of malware. Correct answer(s): D.
+331	This question tests understanding of IDS/IPS. Correct answer(s): A, B.
+332	This question tests understanding of phishing. Correct answer(s): B.
+333	This question tests understanding of RBAC. Correct answer(s): C.
+334	This question tests understanding of DAC. Correct answer(s): D.
+335	This question tests understanding of TLS. Correct answer(s): A.
+336	This question tests understanding of IDS/IPS. Correct answer(s): A, D.
+337	This question tests understanding of confidentiality. Correct answer(s): A.
+338	This question tests understanding of encryption. Correct answer(s): A, D.
+339	This question tests understanding of ransomware. Correct answer(s): C, D.
+340	This question tests understanding of vulnerability scanning. Correct answer(s): C, D.
+341	This question tests understanding of SIEM. Correct answer(s): B.
+342	This question tests understanding of IDS/IPS. Correct answer(s): A.
+343	This question tests understanding of vulnerability scanning. Correct answer(s): B, D.
+344	This question tests understanding of penetration testing. Correct answer(s): D.
+345	This question tests understanding of RBAC. Correct answer(s): C.
+346	This question tests understanding of DAC. Correct answer(s): A.
+347	This question tests understanding of availability. Correct answer(s): C.
+348	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+349	This question tests understanding of penetration testing. Correct answer(s): D.
+350	This question tests understanding of PKI. Correct answer(s): D.
+351	This question tests understanding of MAC. Correct answer(s): A.
+352	This question tests understanding of risk mitigation. Correct answer(s): D.
+353	This question tests understanding of malware. Correct answer(s): A.
+354	This question tests understanding of malware. Correct answer(s): B, D.
+355	This question tests understanding of malware. Correct answer(s): A, B.
+356	This question tests understanding of PKI. Correct answer(s): C.
+357	This question tests understanding of confidentiality. Correct answer(s): D.
+358	This question tests understanding of confidentiality. Correct answer(s): D.
+359	This question tests understanding of SIEM. Correct answer(s): D.
+360	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+361	This question tests understanding of RBAC. Correct answer(s): B.
+362	This question tests understanding of RBAC. Correct answer(s): B.
+363	This question tests understanding of SIEM. Correct answer(s): A, B.
+364	This question tests understanding of confidentiality. Correct answer(s): D.
+365	This question tests understanding of log analysis. Correct answer(s): B, C.
+366	This question tests understanding of phishing. Correct answer(s): A, C.
+367	This question tests understanding of phishing. Correct answer(s): B, C.
+368	This question tests understanding of access control models. Correct answer(s): A.
+369	This question tests understanding of RBAC. Correct answer(s): A, D.
+370	This question tests understanding of SIEM. Correct answer(s): C.
+371	This question tests understanding of penetration testing. Correct answer(s): B.
+372	This question tests understanding of penetration testing. Correct answer(s): A.
+373	This question tests understanding of malware. Correct answer(s): A, B.
+374	This question tests understanding of encryption. Correct answer(s): B.
+375	This question tests understanding of access control models. Correct answer(s): C.
+376	This question tests understanding of ransomware. Correct answer(s): A.
+377	This question tests understanding of confidentiality. Correct answer(s): D.
+378	This question tests understanding of IDS/IPS. Correct answer(s): B, D.
+379	This question tests understanding of penetration testing. Correct answer(s): A, D.
+380	This question tests understanding of confidentiality. Correct answer(s): C.
+381	This question tests understanding of ransomware. Correct answer(s): B.
+382	This question tests understanding of TLS. Correct answer(s): C.
+383	This question tests understanding of PKI. Correct answer(s): C.
+384	This question tests understanding of risk mitigation. Correct answer(s): A.
+385	This question tests understanding of SIEM. Correct answer(s): D.
+386	This question tests understanding of SIEM. Correct answer(s): C.
+387	This question tests understanding of availability. Correct answer(s): D.
+388	This question tests understanding of TLS. Correct answer(s): A, D.
+389	This question tests understanding of RBAC. Correct answer(s): A.
+390	This question tests understanding of RBAC. Correct answer(s): D.
+391	This question tests understanding of DAC. Correct answer(s): A, C.
+392	This question tests understanding of availability. Correct answer(s): C.
+393	This question tests understanding of malware. Correct answer(s): D.
+394	This question tests understanding of RBAC. Correct answer(s): C.
+395	This question tests understanding of DAC. Correct answer(s): C.
+396	This question tests understanding of TLS. Correct answer(s): A, C.
+397	This question tests understanding of social engineering. Correct answer(s): C.
+398	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+399	This question tests understanding of penetration testing. Correct answer(s): C.
+400	This question tests understanding of TLS. Correct answer(s): A.
+401	This question tests understanding of confidentiality. Correct answer(s): A, B.
+402	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+403	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+404	This question tests understanding of log analysis. Correct answer(s): B, D.
+405	This question tests understanding of SIEM. Correct answer(s): C.
+406	This question tests understanding of firewalls. Correct answer(s): B.
+407	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+408	This question tests understanding of integrity. Correct answer(s): B, C.
+409	This question tests understanding of social engineering. Correct answer(s): D.
+410	This question tests understanding of phishing. Correct answer(s): C.
+411	This question tests understanding of log analysis. Correct answer(s): A.
+412	This question tests understanding of VPN. Correct answer(s): B.
+413	This question tests understanding of ransomware. Correct answer(s): B.
+414	This question tests understanding of phishing. Correct answer(s): C.
+415	This question tests understanding of DAC. Correct answer(s): A, D.
+416	This question tests understanding of integrity. Correct answer(s): A, B.
+417	This question tests understanding of MAC. Correct answer(s): C.
+418	This question tests understanding of availability. Correct answer(s): B, D.
+419	This question tests understanding of access control models. Correct answer(s): A, D.
+420	This question tests understanding of encryption. Correct answer(s): C.
+421	This question tests understanding of encryption. Correct answer(s): A.
+422	This question tests understanding of RBAC. Correct answer(s): A, B.
+423	This question tests understanding of firewalls. Correct answer(s): A.
+424	This question tests understanding of phishing. Correct answer(s): C.
+425	This question tests understanding of VPN. Correct answer(s): A, C.
+426	This question tests understanding of DAC. Correct answer(s): A, D.
+427	This question tests understanding of social engineering. Correct answer(s): B.
+428	This question tests understanding of confidentiality. Correct answer(s): A.
+429	This question tests understanding of penetration testing. Correct answer(s): C.
+430	This question tests understanding of confidentiality. Correct answer(s): A, C.
+431	This question tests understanding of penetration testing. Correct answer(s): A.
+432	This question tests understanding of IDS/IPS. Correct answer(s): B.
+433	This question tests understanding of TLS. Correct answer(s): C, D.
+434	This question tests understanding of firewalls. Correct answer(s): B.
+435	This question tests understanding of firewalls. Correct answer(s): C.
+436	This question tests understanding of log analysis. Correct answer(s): D.
+437	This question tests understanding of penetration testing. Correct answer(s): A, B.
+438	This question tests understanding of TLS. Correct answer(s): C.
+439	This question tests understanding of malware. Correct answer(s): C.
+440	This question tests understanding of risk mitigation. Correct answer(s): A.
+441	This question tests understanding of DAC. Correct answer(s): C, D.
+442	This question tests understanding of encryption. Correct answer(s): D.
+443	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+444	This question tests understanding of ransomware. Correct answer(s): A, C.
+445	This question tests understanding of RBAC. Correct answer(s): A, D.
+446	This question tests understanding of ransomware. Correct answer(s): C.
+447	This question tests understanding of availability. Correct answer(s): C.
+448	This question tests understanding of penetration testing. Correct answer(s): A.
+449	This question tests understanding of DAC. Correct answer(s): B.
+450	This question tests understanding of integrity. Correct answer(s): A, D.
+451	This question tests understanding of availability. Correct answer(s): B, C.
+452	This question tests understanding of confidentiality. Correct answer(s): A.
+453	This question tests understanding of phishing. Correct answer(s): B, C.
+454	This question tests understanding of phishing. Correct answer(s): A.
+455	This question tests understanding of encryption. Correct answer(s): A, C.
+456	This question tests understanding of DAC. Correct answer(s): B.
+457	This question tests understanding of phishing. Correct answer(s): C, D.
+458	This question tests understanding of TLS. Correct answer(s): D.
+459	This question tests understanding of MAC. Correct answer(s): B, D.
+460	This question tests understanding of MAC. Correct answer(s): B.
+461	This question tests understanding of firewalls. Correct answer(s): A, C.
+462	This question tests understanding of access control models. Correct answer(s): B, C.
+463	This question tests understanding of integrity. Correct answer(s): D.
+464	This question tests understanding of RBAC. Correct answer(s): C.
+465	This question tests understanding of VPN. Correct answer(s): D.
+466	This question tests understanding of IDS/IPS. Correct answer(s): A, B.
+467	This question tests understanding of encryption. Correct answer(s): D.
+468	This question tests understanding of penetration testing. Correct answer(s): A.
+469	This question tests understanding of risk mitigation. Correct answer(s): C, D.
+470	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+471	This question tests understanding of PKI. Correct answer(s): C.
+472	This question tests understanding of integrity. Correct answer(s): B.
+473	This question tests understanding of VPN. Correct answer(s): A.
+474	This question tests understanding of malware. Correct answer(s): B.
+475	This question tests understanding of PKI. Correct answer(s): A.
+476	This question tests understanding of confidentiality. Correct answer(s): D.
+477	This question tests understanding of availability. Correct answer(s): D.
+478	This question tests understanding of phishing. Correct answer(s): D.
+479	This question tests understanding of penetration testing. Correct answer(s): B, D.
+480	This question tests understanding of DAC. Correct answer(s): B.
+481	This question tests understanding of availability. Correct answer(s): A.
+482	This question tests understanding of DAC. Correct answer(s): C.
+483	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+484	This question tests understanding of phishing. Correct answer(s): A.
+485	This question tests understanding of VPN. Correct answer(s): B.
+486	This question tests understanding of access control models. Correct answer(s): A, C.
+487	This question tests understanding of social engineering. Correct answer(s): A, C.
+488	This question tests understanding of phishing. Correct answer(s): D.
+489	This question tests understanding of RBAC. Correct answer(s): B.
+490	This question tests understanding of vulnerability scanning. Correct answer(s): A, C.
+491	This question tests understanding of ransomware. Correct answer(s): D.
+492	This question tests understanding of IDS/IPS. Correct answer(s): B, D.
+493	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+494	This question tests understanding of social engineering. Correct answer(s): B.
+495	This question tests understanding of log analysis. Correct answer(s): D.
+496	This question tests understanding of availability. Correct answer(s): B.
+497	This question tests understanding of firewalls. Correct answer(s): B, C.
+498	This question tests understanding of malware. Correct answer(s): B.
+499	This question tests understanding of log analysis. Correct answer(s): A, C.
+500	This question tests understanding of access control models. Correct answer(s): B, D.
+501	This question tests understanding of integrity. Correct answer(s): C, D.
+502	This question tests understanding of IDS/IPS. Correct answer(s): C.
+503	This question tests understanding of vulnerability scanning. Correct answer(s): A, C.
+504	This question tests understanding of ransomware. Correct answer(s): B, D.
+505	This question tests understanding of availability. Correct answer(s): D.
+506	This question tests understanding of availability. Correct answer(s): A.
+507	This question tests understanding of TLS. Correct answer(s): B.
+508	This question tests understanding of encryption. Correct answer(s): A.
+509	This question tests understanding of malware. Correct answer(s): D.
+510	This question tests understanding of risk mitigation. Correct answer(s): B.
+511	This question tests understanding of PKI. Correct answer(s): B.
+512	This question tests understanding of TLS. Correct answer(s): A, C.
+513	This question tests understanding of availability. Correct answer(s): C.
+514	This question tests understanding of log analysis. Correct answer(s): B.
+515	This question tests understanding of social engineering. Correct answer(s): A.
+516	This question tests understanding of IDS/IPS. Correct answer(s): D.
+517	This question tests understanding of RBAC. Correct answer(s): A.
+518	This question tests understanding of social engineering. Correct answer(s): B.
+519	This question tests understanding of access control models. Correct answer(s): A, B.
+520	This question tests understanding of availability. Correct answer(s): A.
+521	This question tests understanding of social engineering. Correct answer(s): D.
+522	This question tests understanding of integrity. Correct answer(s): B.
+523	This question tests understanding of IDS/IPS. Correct answer(s): A.
+524	This question tests understanding of risk mitigation. Correct answer(s): A.
+525	This question tests understanding of MAC. Correct answer(s): B.
+526	This question tests understanding of firewalls. Correct answer(s): D.
+527	This question tests understanding of IDS/IPS. Correct answer(s): B.
+528	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+529	This question tests understanding of availability. Correct answer(s): A, B.
+530	This question tests understanding of encryption. Correct answer(s): C, D.
+531	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+532	This question tests understanding of VPN. Correct answer(s): A, D.
+533	This question tests understanding of RBAC. Correct answer(s): D.
+534	This question tests understanding of social engineering. Correct answer(s): C.
+535	This question tests understanding of SIEM. Correct answer(s): B.
+536	This question tests understanding of encryption. Correct answer(s): D.
+537	This question tests understanding of MAC. Correct answer(s): C.
+538	This question tests understanding of social engineering. Correct answer(s): D.
+539	This question tests understanding of PKI. Correct answer(s): A.
+540	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+541	This question tests understanding of risk mitigation. Correct answer(s): B.
+542	This question tests understanding of RBAC. Correct answer(s): A, D.
+543	This question tests understanding of penetration testing. Correct answer(s): A.
+544	This question tests understanding of IDS/IPS. Correct answer(s): C.
+545	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+546	This question tests understanding of TLS. Correct answer(s): B.
+547	This question tests understanding of log analysis. Correct answer(s): B, D.
+548	This question tests understanding of PKI. Correct answer(s): D.
+549	This question tests understanding of risk mitigation. Correct answer(s): B, D.
+550	This question tests understanding of TLS. Correct answer(s): D.
+551	This question tests understanding of risk mitigation. Correct answer(s): A.
+552	This question tests understanding of availability. Correct answer(s): A, D.
+553	This question tests understanding of RBAC. Correct answer(s): D.
+554	This question tests understanding of log analysis. Correct answer(s): A.
+555	This question tests understanding of access control models. Correct answer(s): A.
+556	This question tests understanding of SIEM. Correct answer(s): D.
+557	This question tests understanding of PKI. Correct answer(s): A, C.
+558	This question tests understanding of social engineering. Correct answer(s): A.
+559	This question tests understanding of log analysis. Correct answer(s): A.
+560	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+561	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+562	This question tests understanding of SIEM. Correct answer(s): D.
+563	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+564	This question tests understanding of firewalls. Correct answer(s): A, D.
+565	This question tests understanding of log analysis. Correct answer(s): D.
+566	This question tests understanding of PKI. Correct answer(s): A.
+567	This question tests understanding of malware. Correct answer(s): A.
+568	This question tests understanding of VPN. Correct answer(s): A, B.
+569	This question tests understanding of malware. Correct answer(s): C.
+570	This question tests understanding of RBAC. Correct answer(s): B.
+571	This question tests understanding of phishing. Correct answer(s): C.
+572	This question tests understanding of integrity. Correct answer(s): A, B.
+573	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+574	This question tests understanding of DAC. Correct answer(s): A.
+575	This question tests understanding of access control models. Correct answer(s): B.
+576	This question tests understanding of access control models. Correct answer(s): A.
+577	This question tests understanding of TLS. Correct answer(s): A.
+578	This question tests understanding of PKI. Correct answer(s): D.
+579	This question tests understanding of TLS. Correct answer(s): C, D.
+580	This question tests understanding of risk mitigation. Correct answer(s): A, C.
+581	This question tests understanding of ransomware. Correct answer(s): B.
+582	This question tests understanding of PKI. Correct answer(s): A, C.
+583	This question tests understanding of ransomware. Correct answer(s): B.
+584	This question tests understanding of encryption. Correct answer(s): D.
+585	This question tests understanding of firewalls. Correct answer(s): A.
+586	This question tests understanding of availability. Correct answer(s): D.
+587	This question tests understanding of integrity. Correct answer(s): B, D.
+588	This question tests understanding of VPN. Correct answer(s): C, D.
+589	This question tests understanding of ransomware. Correct answer(s): C.
+590	This question tests understanding of firewalls. Correct answer(s): C.
+591	This question tests understanding of malware. Correct answer(s): A, C.
+592	This question tests understanding of TLS. Correct answer(s): C.
+593	This question tests understanding of IDS/IPS. Correct answer(s): D.
+594	This question tests understanding of DAC. Correct answer(s): A.
+595	This question tests understanding of PKI. Correct answer(s): D.
+596	This question tests understanding of TLS. Correct answer(s): C.
+597	This question tests understanding of TLS. Correct answer(s): B, C.
+598	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+599	This question tests understanding of access control models. Correct answer(s): C.
+600	This question tests understanding of access control models. Correct answer(s): B.
+601	This question tests understanding of access control models. Correct answer(s): A.
+602	This question tests understanding of penetration testing. Correct answer(s): B.
+603	This question tests understanding of risk mitigation. Correct answer(s): A, D.
+604	This question tests understanding of firewalls. Correct answer(s): D.
+605	This question tests understanding of MAC. Correct answer(s): A.
+606	This question tests understanding of access control models. Correct answer(s): C.
+607	This question tests understanding of VPN. Correct answer(s): D.
+608	This question tests understanding of log analysis. Correct answer(s): D.
+609	This question tests understanding of availability. Correct answer(s): C, D.
+610	This question tests understanding of MAC. Correct answer(s): D.
+611	This question tests understanding of malware. Correct answer(s): A, D.
+612	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+613	This question tests understanding of encryption. Correct answer(s): C.
+614	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+615	This question tests understanding of access control models. Correct answer(s): D.
+616	This question tests understanding of DAC. Correct answer(s): A, B.
+617	This question tests understanding of SIEM. Correct answer(s): C.
+618	This question tests understanding of log analysis. Correct answer(s): A, D.
+619	This question tests understanding of DAC. Correct answer(s): D.
+620	This question tests understanding of encryption. Correct answer(s): A, D.
+621	This question tests understanding of VPN. Correct answer(s): A, D.
+622	This question tests understanding of log analysis. Correct answer(s): C, D.
+623	This question tests understanding of RBAC. Correct answer(s): D.
+624	This question tests understanding of penetration testing. Correct answer(s): C, D.
+625	This question tests understanding of phishing. Correct answer(s): B.
+626	This question tests understanding of firewalls. Correct answer(s): A.
+627	This question tests understanding of TLS. Correct answer(s): B.
+628	This question tests understanding of risk mitigation. Correct answer(s): A.
+629	This question tests understanding of VPN. Correct answer(s): A.
+630	This question tests understanding of encryption. Correct answer(s): C.
+631	This question tests understanding of DAC. Correct answer(s): B.
+632	This question tests understanding of malware. Correct answer(s): B.
+633	This question tests understanding of DAC. Correct answer(s): A.
+634	This question tests understanding of availability. Correct answer(s): A.
+635	This question tests understanding of log analysis. Correct answer(s): A, C.
+636	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+637	This question tests understanding of VPN. Correct answer(s): A, B.
+638	This question tests understanding of social engineering. Correct answer(s): C.
+639	This question tests understanding of MAC. Correct answer(s): A, D.
+640	This question tests understanding of SIEM. Correct answer(s): C.
+641	This question tests understanding of integrity. Correct answer(s): A.
+642	This question tests understanding of integrity. Correct answer(s): A.
+643	This question tests understanding of encryption. Correct answer(s): A.
+644	This question tests understanding of penetration testing. Correct answer(s): B.
+645	This question tests understanding of IDS/IPS. Correct answer(s): A, D.
+646	This question tests understanding of IDS/IPS. Correct answer(s): A.
+647	This question tests understanding of encryption. Correct answer(s): D.
+648	This question tests understanding of firewalls. Correct answer(s): C, D.
+649	This question tests understanding of encryption. Correct answer(s): B.
+650	This question tests understanding of availability. Correct answer(s): A.
+651	This question tests understanding of integrity. Correct answer(s): D.
+652	This question tests understanding of penetration testing. Correct answer(s): B, D.
+653	This question tests understanding of risk mitigation. Correct answer(s): B, C.
+654	This question tests understanding of DAC. Correct answer(s): B.
+655	This question tests understanding of log analysis. Correct answer(s): A, C.
+656	This question tests understanding of firewalls. Correct answer(s): D.
+657	This question tests understanding of MAC. Correct answer(s): C.
+658	This question tests understanding of log analysis. Correct answer(s): A.
+659	This question tests understanding of confidentiality. Correct answer(s): D.
+660	This question tests understanding of availability. Correct answer(s): A.
+661	This question tests understanding of social engineering. Correct answer(s): A, B.
+662	This question tests understanding of SIEM. Correct answer(s): A, C.
+663	This question tests understanding of log analysis. Correct answer(s): A, C.
+664	This question tests understanding of ransomware. Correct answer(s): B.
+665	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+666	This question tests understanding of vulnerability scanning. Correct answer(s): B, C.
+667	This question tests understanding of integrity. Correct answer(s): B.
+668	This question tests understanding of malware. Correct answer(s): C, D.
+669	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+670	This question tests understanding of SIEM. Correct answer(s): C.
+671	This question tests understanding of log analysis. Correct answer(s): D.
+672	This question tests understanding of PKI. Correct answer(s): C.
+673	This question tests understanding of firewalls. Correct answer(s): D.
+674	This question tests understanding of firewalls. Correct answer(s): C.
+675	This question tests understanding of TLS. Correct answer(s): D.
+676	This question tests understanding of TLS. Correct answer(s): D.
+677	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+678	This question tests understanding of access control models. Correct answer(s): D.
+679	This question tests understanding of multi-factor authentication. Correct answer(s): A.
+680	This question tests understanding of RBAC. Correct answer(s): B.
+681	This question tests understanding of malware. Correct answer(s): B.
+682	This question tests understanding of risk mitigation. Correct answer(s): D.
+683	This question tests understanding of encryption. Correct answer(s): C, D.
+684	This question tests understanding of risk mitigation. Correct answer(s): C.
+685	This question tests understanding of integrity. Correct answer(s): A.
+686	This question tests understanding of confidentiality. Correct answer(s): D.
+687	This question tests understanding of access control models. Correct answer(s): B.
+688	This question tests understanding of penetration testing. Correct answer(s): D.
+689	This question tests understanding of phishing. Correct answer(s): A.
+690	This question tests understanding of firewalls. Correct answer(s): D.
+691	This question tests understanding of risk mitigation. Correct answer(s): C, D.
+692	This question tests understanding of multi-factor authentication. Correct answer(s): A, D.
+693	This question tests understanding of IDS/IPS. Correct answer(s): C.
+694	This question tests understanding of multi-factor authentication. Correct answer(s): B.
+695	This question tests understanding of VPN. Correct answer(s): D.
+696	This question tests understanding of risk mitigation. Correct answer(s): B.
+697	This question tests understanding of risk mitigation. Correct answer(s): D.
+698	This question tests understanding of phishing. Correct answer(s): B.
+699	This question tests understanding of RBAC. Correct answer(s): C, D.
+700	This question tests understanding of ransomware. Correct answer(s): C.
+701	This question tests understanding of access control models. Correct answer(s): B.
+702	This question tests understanding of malware. Correct answer(s): B.
+703	This question tests understanding of integrity. Correct answer(s): C.
+704	This question tests understanding of firewalls. Correct answer(s): A.
+705	This question tests understanding of RBAC. Correct answer(s): A.
+706	This question tests understanding of IDS/IPS. Correct answer(s): D.
+707	This question tests understanding of penetration testing. Correct answer(s): D.
+708	This question tests understanding of SIEM. Correct answer(s): A.
+709	This question tests understanding of ransomware. Correct answer(s): B.
+710	This question tests understanding of social engineering. Correct answer(s): D.
+711	This question tests understanding of multi-factor authentication. Correct answer(s): B.
+712	This question tests understanding of SIEM. Correct answer(s): D.
+713	This question tests understanding of phishing. Correct answer(s): D.
+714	This question tests understanding of encryption. Correct answer(s): A.
+715	This question tests understanding of phishing. Correct answer(s): B.
+716	This question tests understanding of log analysis. Correct answer(s): B.
+717	This question tests understanding of firewalls. Correct answer(s): A, B.
+718	This question tests understanding of MAC. Correct answer(s): B, D.
+719	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+720	This question tests understanding of risk mitigation. Correct answer(s): D.
+721	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+722	This question tests understanding of malware. Correct answer(s): A, B.
+723	This question tests understanding of VPN. Correct answer(s): A, B.
+724	This question tests understanding of firewalls. Correct answer(s): C.
+725	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+726	This question tests understanding of availability. Correct answer(s): B.
+727	This question tests understanding of penetration testing. Correct answer(s): D.
+728	This question tests understanding of IDS/IPS. Correct answer(s): D.
+729	This question tests understanding of IDS/IPS. Correct answer(s): B.
+730	This question tests understanding of availability. Correct answer(s): D.
+731	This question tests understanding of TLS. Correct answer(s): B.
+732	This question tests understanding of DAC. Correct answer(s): C.
+733	This question tests understanding of malware. Correct answer(s): C.
+734	This question tests understanding of integrity. Correct answer(s): A, B.
+735	This question tests understanding of risk mitigation. Correct answer(s): B.
+736	This question tests understanding of log analysis. Correct answer(s): B.
+737	This question tests understanding of ransomware. Correct answer(s): C.
+738	This question tests understanding of encryption. Correct answer(s): C.
+739	This question tests understanding of multi-factor authentication. Correct answer(s): B.
+740	This question tests understanding of ransomware. Correct answer(s): A.
+741	This question tests understanding of RBAC. Correct answer(s): B, D.
+742	This question tests understanding of SIEM. Correct answer(s): C.
+743	This question tests understanding of DAC. Correct answer(s): A, C.
+744	This question tests understanding of RBAC. Correct answer(s): D.
+745	This question tests understanding of encryption. Correct answer(s): C.
+746	This question tests understanding of firewalls. Correct answer(s): B.
+747	This question tests understanding of DAC. Correct answer(s): D.
+748	This question tests understanding of log analysis. Correct answer(s): C.
+749	This question tests understanding of malware. Correct answer(s): B, D.
+750	This question tests understanding of risk mitigation. Correct answer(s): C.
+751	This question tests understanding of phishing. Correct answer(s): A, D.
+752	This question tests understanding of DAC. Correct answer(s): D.
+753	This question tests understanding of phishing. Correct answer(s): D.
+754	This question tests understanding of integrity. Correct answer(s): B, D.
+755	This question tests understanding of multi-factor authentication. Correct answer(s): A, C.
+756	This question tests understanding of encryption. Correct answer(s): D.
+757	This question tests understanding of IDS/IPS. Correct answer(s): A.
+758	This question tests understanding of social engineering. Correct answer(s): B.
+759	This question tests understanding of SIEM. Correct answer(s): D.
+760	This question tests understanding of TLS. Correct answer(s): A.
+761	This question tests understanding of log analysis. Correct answer(s): C.
+762	This question tests understanding of DAC. Correct answer(s): B.
+763	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+764	This question tests understanding of penetration testing. Correct answer(s): A.
+765	This question tests understanding of integrity. Correct answer(s): D.
+766	This question tests understanding of malware. Correct answer(s): B.
+767	This question tests understanding of ransomware. Correct answer(s): C.
+768	This question tests understanding of confidentiality. Correct answer(s): B.
+769	This question tests understanding of firewalls. Correct answer(s): B, D.
+770	This question tests understanding of encryption. Correct answer(s): D.
+771	This question tests understanding of VPN. Correct answer(s): A.
+772	This question tests understanding of encryption. Correct answer(s): B.
+773	This question tests understanding of PKI. Correct answer(s): C, D.
+774	This question tests understanding of log analysis. Correct answer(s): B.
+775	This question tests understanding of malware. Correct answer(s): A, B.
+776	This question tests understanding of penetration testing. Correct answer(s): D.
+777	This question tests understanding of malware. Correct answer(s): C.
+778	This question tests understanding of malware. Correct answer(s): D.
+779	This question tests understanding of MAC. Correct answer(s): D.
+780	This question tests understanding of RBAC. Correct answer(s): C.
+781	This question tests understanding of firewalls. Correct answer(s): B.
+782	This question tests understanding of access control models. Correct answer(s): C, D.
+783	This question tests understanding of social engineering. Correct answer(s): D.
+784	This question tests understanding of penetration testing. Correct answer(s): B.
+785	This question tests understanding of phishing. Correct answer(s): C, D.
+786	This question tests understanding of VPN. Correct answer(s): A.
+787	This question tests understanding of encryption. Correct answer(s): D.
+788	This question tests understanding of phishing. Correct answer(s): D.
+789	This question tests understanding of social engineering. Correct answer(s): A.
+790	This question tests understanding of phishing. Correct answer(s): C, D.
+791	This question tests understanding of encryption. Correct answer(s): A, D.
+792	This question tests understanding of integrity. Correct answer(s): C, D.
+793	This question tests understanding of risk mitigation. Correct answer(s): A.
+794	This question tests understanding of ransomware. Correct answer(s): D.
+795	This question tests understanding of IDS/IPS. Correct answer(s): B, D.
+796	This question tests understanding of log analysis. Correct answer(s): C.
+797	This question tests understanding of IDS/IPS. Correct answer(s): A.
+798	This question tests understanding of encryption. Correct answer(s): C.
+799	This question tests understanding of penetration testing. Correct answer(s): C, D.
+800	This question tests understanding of confidentiality. Correct answer(s): A.
+801	This question tests understanding of phishing. Correct answer(s): A, B.
+802	This question tests understanding of ransomware. Correct answer(s): A.
+803	This question tests understanding of firewalls. Correct answer(s): C.
+804	This question tests understanding of log analysis. Correct answer(s): A, B.
+805	This question tests understanding of SIEM. Correct answer(s): A.
+806	This question tests understanding of social engineering. Correct answer(s): A.
+807	This question tests understanding of multi-factor authentication. Correct answer(s): D.
+808	This question tests understanding of log analysis. Correct answer(s): A.
+809	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+810	This question tests understanding of access control models. Correct answer(s): A, D.
+811	This question tests understanding of VPN. Correct answer(s): C, D.
+812	This question tests understanding of social engineering. Correct answer(s): C.
+813	This question tests understanding of confidentiality. Correct answer(s): A, B.
+814	This question tests understanding of SIEM. Correct answer(s): A, D.
+815	This question tests understanding of penetration testing. Correct answer(s): A.
+816	This question tests understanding of risk mitigation. Correct answer(s): C.
+817	This question tests understanding of penetration testing. Correct answer(s): C.
+818	This question tests understanding of integrity. Correct answer(s): A, C.
+819	This question tests understanding of log analysis. Correct answer(s): B.
+820	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+821	This question tests understanding of access control models. Correct answer(s): C, D.
+822	This question tests understanding of log analysis. Correct answer(s): A, D.
+823	This question tests understanding of phishing. Correct answer(s): C.
+824	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+825	This question tests understanding of multi-factor authentication. Correct answer(s): A, B.
+826	This question tests understanding of access control models. Correct answer(s): D.
+827	This question tests understanding of phishing. Correct answer(s): D.
+828	This question tests understanding of firewalls. Correct answer(s): A.
+829	This question tests understanding of vulnerability scanning. Correct answer(s): B, D.
+830	This question tests understanding of availability. Correct answer(s): B.
+831	This question tests understanding of MAC. Correct answer(s): D.
+832	This question tests understanding of log analysis. Correct answer(s): D.
+833	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+834	This question tests understanding of PKI. Correct answer(s): C.
+835	This question tests understanding of phishing. Correct answer(s): B.
+836	This question tests understanding of penetration testing. Correct answer(s): B, C.
+837	This question tests understanding of phishing. Correct answer(s): A, C.
+838	This question tests understanding of risk mitigation. Correct answer(s): A.
+839	This question tests understanding of PKI. Correct answer(s): A.
+840	This question tests understanding of risk mitigation. Correct answer(s): A.
+841	This question tests understanding of risk mitigation. Correct answer(s): B, C.
+842	This question tests understanding of RBAC. Correct answer(s): A.
+843	This question tests understanding of DAC. Correct answer(s): A.
+844	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+845	This question tests understanding of log analysis. Correct answer(s): D.
+846	This question tests understanding of vulnerability scanning. Correct answer(s): A.
+847	This question tests understanding of PKI. Correct answer(s): A.
+848	This question tests understanding of DAC. Correct answer(s): A.
+849	This question tests understanding of ransomware. Correct answer(s): A, C.
+850	This question tests understanding of risk mitigation. Correct answer(s): B.
+851	This question tests understanding of social engineering. Correct answer(s): B.
+852	This question tests understanding of PKI. Correct answer(s): A.
+853	This question tests understanding of penetration testing. Correct answer(s): D.
+854	This question tests understanding of DAC. Correct answer(s): D.
+855	This question tests understanding of VPN. Correct answer(s): A, B.
+856	This question tests understanding of VPN. Correct answer(s): B, D.
+857	This question tests understanding of encryption. Correct answer(s): A, D.
+858	This question tests understanding of log analysis. Correct answer(s): C.
+859	This question tests understanding of penetration testing. Correct answer(s): B, C.
+860	This question tests understanding of vulnerability scanning. Correct answer(s): A, D.
+861	This question tests understanding of log analysis. Correct answer(s): B.
+862	This question tests understanding of penetration testing. Correct answer(s): A.
+863	This question tests understanding of integrity. Correct answer(s): B, D.
+864	This question tests understanding of encryption. Correct answer(s): C, D.
+865	This question tests understanding of encryption. Correct answer(s): B.
+866	This question tests understanding of encryption. Correct answer(s): D.
+867	This question tests understanding of vulnerability scanning. Correct answer(s): C.
+868	This question tests understanding of ransomware. Correct answer(s): A, C.
+869	This question tests understanding of DAC. Correct answer(s): A.
+870	This question tests understanding of integrity. Correct answer(s): A.
+871	This question tests understanding of MAC. Correct answer(s): A, C.
+872	This question tests understanding of availability. Correct answer(s): D.
+873	This question tests understanding of MAC. Correct answer(s): A.
+874	This question tests understanding of VPN. Correct answer(s): A, B.
+875	This question tests understanding of confidentiality. Correct answer(s): B, D.
+876	This question tests understanding of risk mitigation. Correct answer(s): A.
+877	This question tests understanding of phishing. Correct answer(s): D.
+878	This question tests understanding of availability. Correct answer(s): A, B.
+879	This question tests understanding of social engineering. Correct answer(s): C.
+880	This question tests understanding of log analysis. Correct answer(s): C.
+881	This question tests understanding of IDS/IPS. Correct answer(s): A.
+882	This question tests understanding of phishing. Correct answer(s): A, B.
+883	This question tests understanding of risk mitigation. Correct answer(s): B.
+884	This question tests understanding of IDS/IPS. Correct answer(s): B.
+885	This question tests understanding of IDS/IPS. Correct answer(s): D.
+886	This question tests understanding of confidentiality. Correct answer(s): A.
+887	This question tests understanding of phishing. Correct answer(s): B.
+888	This question tests understanding of risk mitigation. Correct answer(s): A, B.
+889	This question tests understanding of phishing. Correct answer(s): C.
+890	This question tests understanding of log analysis. Correct answer(s): C.
+891	This question tests understanding of social engineering. Correct answer(s): A.
+892	This question tests understanding of access control models. Correct answer(s): B.
+893	This question tests understanding of confidentiality. Correct answer(s): C.
+894	This question tests understanding of RBAC. Correct answer(s): B, D.
+895	This question tests understanding of penetration testing. Correct answer(s): D.
+896	This question tests understanding of RBAC. Correct answer(s): C.
+897	This question tests understanding of confidentiality. Correct answer(s): A.
+898	This question tests understanding of multi-factor authentication. Correct answer(s): B.
+899	This question tests understanding of TLS. Correct answer(s): D.
+900	This question tests understanding of confidentiality. Correct answer(s): A, B.
+901	This question tests understanding of DAC. Correct answer(s): C.
+902	This question tests understanding of risk mitigation. Correct answer(s): D.
+903	This question tests understanding of social engineering. Correct answer(s): C.
+904	This question tests understanding of risk mitigation. Correct answer(s): A, B.
+905	This question tests understanding of availability. Correct answer(s): B, D.
+906	This question tests understanding of malware. Correct answer(s): A.
+907	This question tests understanding of phishing. Correct answer(s): B.
+908	This question tests understanding of VPN. Correct answer(s): C.
+909	This question tests understanding of availability. Correct answer(s): A.
+910	This question tests understanding of penetration testing. Correct answer(s): C.
+911	This question tests understanding of integrity. Correct answer(s): D.
+912	This question tests understanding of vulnerability scanning. Correct answer(s): B.
+913	This question tests understanding of availability. Correct answer(s): C.
+914	This question tests understanding of confidentiality. Correct answer(s): A.
+915	This question tests understanding of MAC. Correct answer(s): B, D.
+916	This question tests understanding of vulnerability scanning. Correct answer(s): B, C.
+917	This question tests understanding of PKI. Correct answer(s): C.
+918	This question tests understanding of phishing. Correct answer(s): B, C.
+919	This question tests understanding of risk mitigation. Correct answer(s): A, B.
+920	This question tests understanding of integrity. Correct answer(s): A.
+921	This question tests understanding of integrity. Correct answer(s): B.
+922	This question tests understanding of multi-factor authentication. Correct answer(s): C.
+923	This question tests understanding of penetration testing. Correct answer(s): C.
+924	This question tests understanding of IDS/IPS. Correct answer(s): A.
+925	This question tests understanding of MAC. Correct answer(s): A, D.
+926	This question tests understanding of IDS/IPS. Correct answer(s): B, D.
+927	This question tests understanding of SIEM. Correct answer(s): C, D.
+928	This question tests understanding of confidentiality. Correct answer(s): A.
+929	This question tests understanding of confidentiality. Correct answer(s): B.
+930	This question tests understanding of access control models. Correct answer(s): C.
+931	This question tests understanding of confidentiality. Correct answer(s): C.
+932	This question tests understanding of social engineering. Correct answer(s): D.
+933	This question tests understanding of risk mitigation. Correct answer(s): D.
+934	This question tests understanding of RBAC. Correct answer(s): C, D.
+935	This question tests understanding of RBAC. Correct answer(s): A, D.
+936	This question tests understanding of DAC. Correct answer(s): A.
+937	This question tests understanding of IDS/IPS. Correct answer(s): A, B.
+938	This question tests understanding of malware. Correct answer(s): D.
+939	This question tests understanding of SIEM. Correct answer(s): D.
+940	This question tests understanding of integrity. Correct answer(s): D.
+941	This question tests understanding of firewalls. Correct answer(s): B.
+942	This question tests understanding of RBAC. Correct answer(s): D.
+943	This question tests understanding of MAC. Correct answer(s): D.
+944	This question tests understanding of penetration testing. Correct answer(s): B, C.
+945	This question tests understanding of IDS/IPS. Correct answer(s): B, D.
+946	This question tests understanding of penetration testing. Correct answer(s): A.
+947	This question tests understanding of social engineering. Correct answer(s): B.
+948	This question tests understanding of DAC. Correct answer(s): C, D.
+949	This question tests understanding of phishing. Correct answer(s): C, D.
+950	This question tests understanding of penetration testing. Correct answer(s): B.
+951	This question tests understanding of vulnerability scanning. Correct answer(s): D.
+952	This question tests understanding of risk mitigation. Correct answer(s): C, D.
+953	This question tests understanding of access control models. Correct answer(s): A.
+954	This question tests understanding of social engineering. Correct answer(s): D.
+955	This question tests understanding of social engineering. Correct answer(s): B, C.
+956	This question tests understanding of phishing. Correct answer(s): B, D.
+957	This question tests understanding of availability. Correct answer(s): A.
+958	This question tests understanding of MAC. Correct answer(s): D.
+959	This question tests understanding of access control models. Correct answer(s): B.
+960	This question tests understanding of social engineering. Correct answer(s): B.
+961	This question tests understanding of integrity. Correct answer(s): C.
+962	This question tests understanding of MAC. Correct answer(s): B.
+963	This question tests understanding of phishing. Correct answer(s): C.
+964	This question tests understanding of encryption. Correct answer(s): B.
+965	This question tests understanding of ransomware. Correct answer(s): D.
+966	This question tests understanding of MAC. Correct answer(s): D.
+967	This question tests understanding of penetration testing. Correct answer(s): A.
+968	This question tests understanding of access control models. Correct answer(s): A, C.
+969	This question tests understanding of confidentiality. Correct answer(s): A.
+970	This question tests understanding of vulnerability scanning. Correct answer(s): B, D.
+971	This question tests understanding of integrity. Correct answer(s): C.
+972	This question tests understanding of PKI. Correct answer(s): A.
+973	This question tests understanding of ransomware. Correct answer(s): D.
+974	This question tests understanding of SIEM. Correct answer(s): A, B.
+975	This question tests understanding of MAC. Correct answer(s): A.
+976	This question tests understanding of MAC. Correct answer(s): D.
+977	This question tests understanding of phishing. Correct answer(s): B, C.
+978	This question tests understanding of risk mitigation. Correct answer(s): B, C.
+979	This question tests understanding of social engineering. Correct answer(s): C.
+980	This question tests understanding of availability. Correct answer(s): B.
+981	This question tests understanding of VPN. Correct answer(s): C, D.
+982	This question tests understanding of firewalls. Correct answer(s): A.
+983	This question tests understanding of confidentiality. Correct answer(s): A, C.
+984	This question tests understanding of IDS/IPS. Correct answer(s): C, D.
+985	This question tests understanding of access control models. Correct answer(s): C.
+986	This question tests understanding of IDS/IPS. Correct answer(s): D.
+987	This question tests understanding of TLS. Correct answer(s): C, D.
+988	This question tests understanding of confidentiality. Correct answer(s): D.
+989	This question tests understanding of availability. Correct answer(s): D.
+990	This question tests understanding of penetration testing. Correct answer(s): A.
+991	This question tests understanding of integrity. Correct answer(s): A, C.
+992	This question tests understanding of social engineering. Correct answer(s): C, D.
+993	This question tests understanding of MAC. Correct answer(s): A.
+994	This question tests understanding of phishing. Correct answer(s): A, B.
+995	This question tests understanding of RBAC. Correct answer(s): A, C.
+996	This question tests understanding of TLS. Correct answer(s): A, C.
+997	This question tests understanding of SIEM. Correct answer(s): C.
+998	This question tests understanding of TLS. Correct answer(s): B, C.
+999	This question tests understanding of SIEM. Correct answer(s): A, D.
+1000	This question tests understanding of SIEM. Correct answer(s): A, C.
